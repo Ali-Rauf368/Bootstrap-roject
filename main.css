@@ -1,0 +1,22 @@
+
+
+:root {
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+  }
+
+.M-container {
+    padding: 10px 20px;
+    width: 81vw;
+    margin: 0 auto;
+    margin-left: 110px;
+    margin-right: 60px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 16vh;
+    top: 480px;
+  }
+  
+  
